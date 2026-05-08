@@ -1019,7 +1019,10 @@ Covered in section 3.18.
 
 ## 5. Duplicate / Backup Files Reference
 
-The following files are backups kept by the modder. They are **not loaded by the game** and should not be edited. The active file to edit is the plain-named version in each case.
+Repository Owner Note:
+*Since several files had the same name but exists in different folders, I just duplicated them (they have `(copia)` appended to the name - meaning "copy" - and `(un'altra copia)` - meaning "another copy"). This might be a source of confusion that, hopefully, someone will fix in this documentation.*
+
+*For quite understandable reasons, Claude categorized those files as backups.*
 
 | Backup file | Active file to edit |
 |---|---|
