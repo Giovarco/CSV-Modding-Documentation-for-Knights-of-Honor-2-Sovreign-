@@ -1,10 +1,5 @@
 # Knights of Honor II: Sovereign — CSV Modding Documentation
 
-> **How to resume this document across sessions**
-> At the very end of this file there is a **progress checklist** of every file group. Each item is either `[x]` (fully documented) or `[ ]` (pending). When starting a new session: upload this `.md` file and the original `KoH2_CSV.zip`, then say *"continue from where you left off"*. Claude will read the checklist, identify the first unchecked item, extract the relevant files from the zip, and continue documenting without re-reading anything already done.
-
----
-
 ## Table of Contents
 
 1. [File Taxonomy](#1-file-taxonomy)
