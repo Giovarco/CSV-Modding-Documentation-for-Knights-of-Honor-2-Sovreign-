@@ -134,7 +134,7 @@ Several localisation files exist in numbered variants: `de_preload.csv`, `de_pre
 | `siege_strength` | Float | Damage output during siege operations (attacking walls, gates, towers). |
 | `defense` | Float | Defensive rating against melee attacks. Higher values reduce incoming damage. |
 | `CTH` | Float | Chance to Hit — base probability of landing a melee attack. |
-| `CTH_shoot_mod` | Float | *Read-only value*. *CTH_shoot_mod* is a multiplier used to calculate the ranged attack of a unit based on its melee attack (CTH). The formula is `ranged attack = CTH * CTH_shoot_mod`. *CTH_shoot_mod* default value is `2.5` |
+| `CTH_shoot_mod` | Float | *CTH_shoot_mod* is a multiplier used to calculate the ranged attack of a unit based on its melee attack (CTH). The formula is `ranged attack = CTH * CTH_shoot_mod`. *CTH_shoot_mod* default value is `2.5` |
 | `CTH_cavalry_mod` | Float | Modifier to CTH when this unit faces cavalry. . `chance_to_shock` | Float | Probability of causing a morale shock to the enemy on a successful hit. |
 | `resilience` | Float | Morale resistance — how well the unit withstands shock and routing pressure. |
 | `trample_chance` | Float | Cavalry only. Probability of trampling enemies underfoot during a charge. |
